@@ -44,7 +44,7 @@ LangChain-FindMyDinner/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/LangChain-FindMyDinner.git
+   git clone https://github.com/tses89214/LangChain-FindMyDinner.git
    cd LangChain-FindMyDinner
    ```
 
@@ -70,7 +70,7 @@ LangChain-FindMyDinner/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/LangChain-FindMyDinner.git
+   git clone https://github.com/tses89214/LangChain-FindMyDinner.git
    cd LangChain-FindMyDinner
    ```
 
